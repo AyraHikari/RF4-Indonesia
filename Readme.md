@@ -25,7 +25,7 @@ Proyek ini untuk Translate ke Bahasa Indonesia. Perlu beberapa kontributor, sila
 
 <img src="https://raw.githubusercontent.com/AyraHikari/RF4-Indonesia/master/example.png" />
 
-
+* * *
 
 # Rune Factory 4 Indonesia
 This is some binary decrypted from Rune Factory 4 3DS game.
